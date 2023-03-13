@@ -1,3 +1,3 @@
 ## Aqui va el titulo del proyecto de tu compañero
 
-___Aqui va una descrion____________________-
+___Aquí va una descripción____________________-
